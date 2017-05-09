@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Chao mundo
+=======
+Hola nuevo branch
+>>>>>>> nuevo-branch
